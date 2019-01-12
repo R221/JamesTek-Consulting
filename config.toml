@@ -2,11 +2,11 @@
 theme = "hugo-icon"
 baseURL = "https://jamestek.net"
 languageCode = "en-AU"
-title = "My Awesome Title"
+title = "JamesTek Consulting"
 
 # Metadata
 [params]
-  author = "Your name"
+  author = "Robert James"
   description = "Cool description"
 
 # Hero section (from here on is for icon theme)
