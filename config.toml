@@ -1,6 +1,6 @@
 # Main config file for icon theme.
 theme = "hugo-icon"
-baseURL = "https://jamestek.net"
+baseURL = "https://jamestek.net/"
 languageCode = "en-AU"
 title = "JamesTek Consulting"
 
